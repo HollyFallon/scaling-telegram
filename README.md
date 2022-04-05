@@ -1,4 +1,4 @@
-# scaling-telegram
-Decision Statements
+
+# Decision Statements
 
 Examples of decision statements created on my C# Fundamentals course.
